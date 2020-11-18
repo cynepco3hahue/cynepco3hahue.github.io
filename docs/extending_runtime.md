@@ -44,7 +44,9 @@ add the hook JSON specification under hooks directory.
 
 ---
 **NOTE:**
+
 Default search paths for hooks are `/etc/containers/oci/hooks.d/` and `/usr/share/containers/oci/hooks.d/`
+
 ---
 
 Example:
